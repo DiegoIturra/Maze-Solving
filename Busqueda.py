@@ -1,7 +1,6 @@
 import pygame
 import sys
 from pygame.locals import *
-import constants
 import time
 from time import time
 import heapq
